@@ -45,6 +45,7 @@ Respuesta:
     8
   ]
 ```
+---
 **3 - /alumnos/semestre/**
 
 Parámetros:
@@ -66,7 +67,7 @@ Respuesta:
     8
   ]
 ```
-
+---
 **4 - /alumnos/promedio/**
 
 Parámetros:
@@ -88,6 +89,7 @@ Respuesta:
     8
   ]
 ```
+---
 **5 - /alumnos/genero/**
 
 Parámetros:
@@ -109,6 +111,7 @@ Respuesta:
     9
   ]
 ```
+---
 **6 - /alumnos/genero/edad/**
 
 Parámetros:
@@ -131,6 +134,7 @@ Respuesta:
     9
   ]
 ```
+---
 **7 - /alumnos/genero/semestre/**
 
 Parámetros:
@@ -153,6 +157,7 @@ Respuesta:
     9
   ]
 ```
+---
 **8 - /alumnos/genero/promedio/**
 
 Parámetros:
@@ -175,6 +180,7 @@ Respuesta:
     9
   ]
 ```
+---
 **9 - /alumnos/edad/semestre/**
 
 Parámetros:
@@ -197,7 +203,8 @@ Respuesta:
     9
   ]
 ```
-**9 - /alumnos/edad/semestre/promedio/**
+---
+**10 - /alumnos/edad/semestre/promedio/**
 
 Parámetros:
 ```json
@@ -220,7 +227,8 @@ Respuesta:
     9
   ]
 ```
-**10 - /alumnos/genero/semestre/promedio/**
+---
+**11 - /alumnos/genero/semestre/promedio/**
 
 Parámetros:
 ```json
@@ -243,3 +251,4 @@ Respuesta:
     9
   ]
 ```
+---
